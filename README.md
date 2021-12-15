@@ -1,1 +1,1 @@
-# TWD-AAR
+# This is a resource site for the paper "Three-way approximate reduct based on information-theoretic measure", which is accepted by the International Journal of Approximate Reasoning. The source codes (Python 3.8, released later), experimental results, and supplementary materials are included.
